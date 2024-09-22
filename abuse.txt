@@ -1,6 +1,0 @@
-helllo
-git unhi file ko status check karega jo commit hua hai
-
-fhello
-ldsfjo
-sdkf
